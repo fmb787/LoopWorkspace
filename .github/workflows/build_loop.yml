@@ -223,7 +223,6 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           now_line \
           meal_days \
-          live_activity \
           negative_insulin
 
           # the final customization listed above CANNOT have a continuation character
